@@ -5,3 +5,5 @@ name = input("What's your name? ")
 
 # Print a greeting
 print(f"Hello, {name}! Welcome to Python programming.")
+
+print(f"Welcome!")
